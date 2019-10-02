@@ -1,4 +1,4 @@
-# Learning Latent Plans from Play
+# Quantile QT-Opt for Risk-Aware Vision-Based Robotic Grasping
 
 Markdown from https://github.com/planetrl/planetrl.github.io
 

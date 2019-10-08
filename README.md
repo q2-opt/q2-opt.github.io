@@ -18,8 +18,8 @@ This repo contains the source for the article.
 
 ### Instructions to Build and Test
 ```bash
-git clone https://github.com/learning-from-play/learning-from-play.github.io.git
-cd learning-from-play.github.io
+git clone https://github.com/q2-opt/q2-opt.github.io.git
+cd q2-opt.github.io
 npm install
 chmod +x ./bin/*
 ```

@@ -444,8 +444,8 @@ Table 2 gives the complete final success rate statistics.
 <center>
 Figure 5. Average success rate over five runs for different risk-sensitive
 policies in sim. Most risk averse policies perform better, but extremely
-conservative ones like CVaR$(.25)$ can become unstable. The risk-seeking
-policy Wang$(.75)$ performs worse than the others. 
+conservative ones like CVaR(.25) can become unstable. The risk-seeking
+policy Wang(.75) performs worse than the others. 
 </center>
 </figcaption>
 </div>
@@ -456,7 +456,7 @@ policy Wang$(.75)$ performs worse than the others.
 <img src="assets/fig/real_success_tab.png" style="margin: 0; width: 60%;"/>
 <figcaption>
 <center>
-Table 3. Real world grasp success rate out of $210$ total grasps. 
+Table 3. Real world grasp success rate out of 210 total grasps. 
 Our methods significantly outperform QT-Opt, 
 while risk-averse polices are better by a significant margin.
 </center>

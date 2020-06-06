@@ -570,7 +570,7 @@ success rate of 90% (Figure 7a).
 <figcaption>
 <center>
 Figure 7a. Sim off-policy success rate for data collected during a full training run. 
-None of the methods can achieve the final performance of the policy trained online (90\%).
+None of the methods can achieve the final performance of the policy trained online (90%).
 </center>
 </figcaption>
 </div>
@@ -588,7 +588,7 @@ continuous action spaces.
 <center>
 Figure 7b. Sim success rate from an offline dataset produced by a 
 scripted exploration policy. The models achieve a higher 
-success rate than on the replay buffer dataset..
+success rate than on the replay buffer dataset.
 </center>
 </figcaption>
 </div>

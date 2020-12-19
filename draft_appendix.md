@@ -4,14 +4,17 @@ This article was prepared using the [Distill](https://distill.pub) [template](ht
 
 For attribution in academic contexts, please cite this work as
 
-<pre class="citation short">Bodnar et al., "Quantile QT-Opt for Risk-Aware Vision-Based Robotic Grasping", 2019.</pre>
+<pre class="citation short">Bodnar et al., "Quantile QT-Opt for Risk-Aware Vision-Based Robotic Grasping", 2020.</pre>
 
 BibTeX citation
 
-<pre class="citation long">@article{bodnar2019quantile,
-  title={Quantile QT-Opt for Risk-Aware Vision-Based Robotic Grasping},
-  author={Cristian Bodnar and Adrian Li and Karol Hausman and Peter Pastor and Mrinal Kalakrishnan},
-  journal={ArXiv},
-  year={2019},
-  volume={abs/1910.02787}
+<pre class="citation long">
+@INPROCEEDINGS{Bodnar-RSS-20, 
+    AUTHOR    = {Cristian Bodnar AND Adrian  Li AND Karol Hausman AND Peter Pastor AND Mrinal Kalakrishnan}, 
+    TITLE     = {Quantile QT-Opt for Risk-Aware Vision-Based Robotic Grasping}, 
+    BOOKTITLE = {Proceedings of Robotics: Science and Systems}, 
+    YEAR      = {2020}, 
+    ADDRESS   = {Corvalis, Oregon, USA}, 
+    MONTH     = {July}, 
+    DOI       = {10.15607/RSS.2020.XVI.075} 
 }</pre>
